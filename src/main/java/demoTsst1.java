@@ -6,5 +6,6 @@ public class demoTsst {
         System.out.println("hi b");
         System.out.println("push");
         System.out.println("pull");
+        System.out.println("开始测试");
     }
 }
